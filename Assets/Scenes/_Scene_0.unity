@@ -1362,7 +1362,7 @@ PrefabInstance:
       objectReference: {fileID: 6354271596222589670, guid: 0a92c624b933cf875934ccd46ebc170b, type: 3}
     - target: {fileID: 4490586668125718679, guid: a296b104d1e23ee54b32a0a99f1b35a8, type: 3}
       propertyPath: branchDropChance
-      value: 0.1
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5268144987235069496, guid: a296b104d1e23ee54b32a0a99f1b35a8, type: 3}
       propertyPath: m_RootOrder
